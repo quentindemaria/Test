@@ -4,12 +4,12 @@
 - Présentation sommaire (c.f https://github.com/OpenEdition/lodel/wiki)
 - Les différentes parties d’`Openedition.org <https://www.openedition.org />`_ (portail générique qui regroupe tout) :
 
-		- `lodel.org <https://www.lodel.org/>`_ : site de présentation de Lodel
-		- `lodel.hypotheses.org <https://www.lodel.hypotheses.org/>`_ : Blog Lodel, billets des différentes releases déployées
-		- `calenda.org <https://www.calenda.org/>`_ : Calendrier (colloques, séminaires, appels à contribution…)
-		- `revues.org <https://www.revues.org/>`_ : Portail des différentes revues publiées
-		- `books.openedition.org <https://books.openedition.org/>`_ : Portail des différents livres publiés
-		- `maisondesrevues.org <https://maisondesrevues.org/>`_ : doc pour Revues.org et OpenEdition Books 
+	- `lodel.org <https://www.lodel.org/>`_ : site de présentation de Lodel
+	- `lodel.hypotheses.org <https://www.lodel.hypotheses.org/>`_ : Blog Lodel, billets des différentes releases déployées
+	- `calenda.org <https://www.calenda.org/>`_ : Calendrier (colloques, séminaires, appels à contribution…)
+	- `revues.org <https://www.revues.org/>`_ : Portail des différentes revues publiées
+	- `books.openedition.org <https://books.openedition.org/>`_ : Portail des différents livres publiés
+	- `maisondesrevues.org <https://maisondesrevues.org/>`_ : doc pour Revues.org et OpenEdition Books 
 
 2.	Getting Started :
 -------------------------
