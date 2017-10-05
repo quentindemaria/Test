@@ -33,10 +33,10 @@ Files / lignes de code importantes (explications supplémentaires si le commenta
 5.	Annexe :
 ----------------
 
-F.A.Q
-Get support / tickets (bugs and feature requests) -> redirection vers Redmine ?
-Contribuer
-License / Copyright
+- F.A.Q
+- Get support / tickets (bugs and feature requests) -> redirection vers Redmine ?
+- Contribuer
+- License / Copyright
 
 Choix création Doc :
 --------------------
