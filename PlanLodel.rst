@@ -1,5 +1,5 @@
 1. 	Vue d’ensemble :
---------------------
+------------------------
 
 - Présentation sommaire (c.f https://github.com/OpenEdition/lodel/wiki)
 - Les différentes parties d’ Openedition.org (portail générique qui regroupe tout) :
@@ -11,7 +11,7 @@
 		- maisondesrevues.org : doc pour Revues.org et OpenEdition Books 
 
 2.	Getting Started :
----------------------
+-------------------------
 
 Lodel, qu’est ce que c’est, pour quoi faire ? Est-ce que ça convient à mes besoins ?
 Download / Install (c.f http://lodel.org/downloads/vms/)
@@ -24,14 +24,14 @@ Partie utilisateur
 Listing termes techniques, à quoi ils servent / où les trouver (passerelle partie 4)
 
 4.	Utilisation approfondie : (Github)
---------------------------------------
+------------------------------------------
 
 Explication des axes majeurs
 Directories
 Files / lignes de code importantes (explications supplémentaires si le commentaire du code est trop vague ou compliqué, montrer des exemples)
 
 5.	Annexe :
-------------
+----------------
 
 F.A.Q
 Get support / tickets (bugs and feature requests) -> redirection vers Redmine ?
