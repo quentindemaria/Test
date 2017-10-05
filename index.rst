@@ -9,7 +9,7 @@
 	- `calenda.org <https://www.calenda.org/>`_ : Calendrier (colloques, séminaires, appels à contribution…)
 	- `revues.org <https://www.revues.org/>`_ : Portail des différentes revues publiées
 	- `books.openedition.org <https://books.openedition.org/>`_ : Portail des différents livres publiés
-	- `maisondesrevues.org <https://maisondesrevues.org/>`_ : doc pour Revues.org et OpenEdition Books 
+	- `maisondesrevues.org <https://maisondesrevues.org/>`_ : doc pour revues.org et books.openedition.org
 
 2.	Getting Started :
 -------------------------
