@@ -3,7 +3,7 @@
 
 - Présentation sommaire (c.f https://github.com/OpenEdition/lodel/wiki)
 - Les différentes parties d’ Openedition.org (portail générique qui regroupe tout) :
-- lodel.org : site de présentation de Lodel
+		- lodel.org : site de présentation de Lodel
 		- lodel.hypotheses.org : Blog Lodel, billets des différentes releases déployées
 		- calenda.org : Calendrier (colloques, séminaires, appels à contribution…)
 		- revues.org : Portail des différentes revues publiées
@@ -19,7 +19,7 @@ Lancement, utilisation basique en tant qu’admin
 Partie utilisateur
 
 3.	Glossaire :
----------------
+-------------------
 
 Listing termes techniques, à quoi ils servent / où les trouver (passerelle partie 4)
 
