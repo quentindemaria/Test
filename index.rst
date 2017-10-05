@@ -42,5 +42,4 @@ Listing termes techniques, à quoi ils servent / où les trouver (passerelle par
 Choix création Doc :
 --------------------
 
-ReadTheDocs
 ReadTheDocs -> Text to HTML -> Plaintext -> Markup Language .rst (reStructuredText)
