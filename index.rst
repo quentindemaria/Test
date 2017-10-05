@@ -14,10 +14,10 @@
 2.	Getting Started :
 -------------------------
 
-Lodel, qu’est ce que c’est, pour quoi faire ? Est-ce que ça convient à mes besoins ?
-Download / Install (c.f http://lodel.org/downloads/vms/)
-Lancement, utilisation basique en tant qu’admin
-Partie utilisateur
+- Lodel, qu’est ce que c’est, pour quoi faire ? Est-ce que ça convient à mes besoins ?
+- Download / Install (c.f http://lodel.org/downloads/vms/)
+- Lancement, utilisation basique en tant qu’admin
+- Partie utilisateur
 
 3.	Glossaire :
 -------------------
@@ -27,9 +27,9 @@ Listing termes techniques, à quoi ils servent / où les trouver (passerelle par
 4.	Utilisation approfondie : (Github)
 ------------------------------------------
 
-Explication des axes majeurs
-Directories
-Files / lignes de code importantes (explications supplémentaires si le commentaire du code est trop vague ou compliqué, montrer des exemples)
+- Explication des axes majeurs
+- Directories
+- Files / lignes de code importantes (explications supplémentaires si le commentaire du code est trop vague ou compliqué, montrer des exemples)
 
 5.	Annexe :
 ----------------
