@@ -43,4 +43,4 @@ Choix création Doc :
 --------------------
 
 ReadTheDocs
-Text to HTML -> Plaintext / Markup Languages (Markdown / reStructuredText) ?
+ReadTheDocs -> Text to HTML -> Plaintext -> Markup Language .rst (reStructuredText)
