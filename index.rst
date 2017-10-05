@@ -25,7 +25,7 @@ LODEL
 3.	Glossaire :
 -------------------
 
-Listing termes techniques, à quoi ils servent / où les trouver (passerelle partie 4)
+Listing termes utilisateur / termes techniques, définition / à quoi ça sert / où les trouver (passerelle partie 4)
 
 4.	Utilisation approfondie : (Github)
 ------------------------------------------
