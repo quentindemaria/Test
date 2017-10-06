@@ -49,4 +49,4 @@ LODEL
 Choix création Doc :
 --------------------
 
-ReadTheDocs -> Text to HTML -> Plaintext -> Markup Language .rst (reStructuredText)
+ReadTheDocs -> Text to HTML -> Markup Language .md (MarkDown)
