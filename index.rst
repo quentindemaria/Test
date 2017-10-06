@@ -6,7 +6,6 @@ LODEL
 
 - Présentation sommaire (c.f https://github.com/OpenEdition/lodel/wiki)
 - Les différentes parties d’`Openedition.org <https://www.openedition.org />`_ (portail générique qui regroupe tout) :
-
 	- `lodel.org <https://www.lodel.org/>`_ : site de présentation de Lodel
 	- `lodel.hypotheses.org <https://www.lodel.hypotheses.org/>`_ : Blog Lodel, billets des différentes releases déployées
 	- `calenda.org <https://www.calenda.org/>`_ : Calendrier (colloques, séminaires, appels à contribution…)
@@ -17,7 +16,7 @@ LODEL
 2.	Getting Started :
 -------------------------
 
-- Lodel, qu’est ce que c’est, pour quoi faire ? Est-ce que ça convient à mes besoins ?
+- Lodel, qu’est ce que c’est, pour quoi faire ? Est-ce que ça convient à mes besoins ? (Voir F.A.Q ?) 
 - Download / Install (c.f http://lodel.org/downloads/vms/)
 - Lancement, utilisation basique en tant qu’admin
 - Partie utilisateur
@@ -37,15 +36,15 @@ LODEL
 5.	Releases :
 ------------------
 
-- Résumé des releases, dates et contenu
+- Résumé des releases, dates et contenu (c.f http://lodel.hypotheses.org)
 
 6.	Annexe :
 ----------------
 
-- F.A.Q
+- F.A.Q (http://maisondesrevues.org/66)
 - Get support / tickets (bugs and feature requests) -> redirection vers Redmine ?
-- Contribuer
-- License / Copyright
+- Contribuer (renvoyer sur Github ?)
+- License / Copyright (c.f https://github.com/OpenEdition/lodel)
 
 Choix création Doc :
 --------------------
