@@ -5,7 +5,7 @@ LODEL
 ------------------------
 
 - Présentation sommaire (c.f https://github.com/OpenEdition/lodel/wiki)
-- Les différentes parties d’`Openedition.org <https://www.openedition.org />`_ (portail générique qui regroupe tout) :
+- Les différentes parties d’[Openedition.org](https://www.openedition.org) (portail générique qui regroupe tout) :
 	- `lodel.org <https://www.lodel.org/>`_ : site de présentation de Lodel
 	- `lodel.hypotheses.org <https://www.lodel.hypotheses.org/>`_ : Blog Lodel, billets des différentes releases déployées
 	- `calenda.org <https://www.calenda.org/>`_ : Calendrier (colloques, séminaires, appels à contribution…)
