@@ -25,7 +25,7 @@ LODEL
 3.	Glossaire :
 -------------------
 
-Listing termes utilisateur / termes techniques, définition / à quoi ça sert / où les trouver (passerelle partie 4)
+- Listing termes utilisateur / termes techniques, définition / à quoi ça sert / où les trouver (passerelle partie 4)
 
 4.	Utilisation approfondie : (Github)
 ------------------------------------------
@@ -34,7 +34,12 @@ Listing termes utilisateur / termes techniques, définition / à quoi ça sert /
 - Directories
 - Files / lignes de code importantes (explications supplémentaires si le commentaire du code est trop vague ou compliqué, montrer des exemples)
 
-5.	Annexe :
+5.	Releases :
+------------------
+
+- Résumé des releases, dates et contenu
+
+6.	Annexe :
 ----------------
 
 - F.A.Q
