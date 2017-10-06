@@ -4,7 +4,7 @@ LODEL
 1. 	Vue d’ensemble :
 ------------------------
 
-- Présentation sommaire (c.f https://github.com/OpenEdition/lodel/wiki)
+- Présentation sommaire (c.f <https://github.com/OpenEdition/lodel/wiki/>)
 - Les différentes parties d’[Openedition.org](https://www.openedition.org) (portail générique qui regroupe tout) :
 	- [lodel.org](<https://www.lodel.org/>) : site de présentation de Lodel
 	- [lodel.hypotheses.org](<https://www.lodel.hypotheses.org/>) : Blog Lodel, billets des différentes releases déployées
