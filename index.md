@@ -8,14 +8,6 @@ LODEL
 - Téléchargement / Installation (c.f <http://lodel.org/downloads/vms/>)
 - Prise en main (Getting Started)
 
-- Les différentes parties d’[Openedition.org](https://www.openedition.org) (portail générique qui regroupe tout) :
-	- [lodel.org](<https://www.lodel.org/>) : site de présentation de Lodel
-	- [lodel.hypotheses.org](<https://www.lodel.hypotheses.org/>) : Blog Lodel, billets des différentes releases déployées
-	- [calenda.org](<https://www.calenda.org/>) : Calendrier (colloques, séminaires, appels à contribution…)
-	- [revues.org](<https://www.revues.org/>) : Portail des différentes revues publiées
-	- [books.openedition.org](<https://books.openedition.org/>) : Portail des différents livres publiés
-	- [maisondesrevues.org](<https://www.maisondesrevues.org/>) : doc pour revues.org et books.openedition.org
-
 
 2.	Doc Technique (coté dev, c.f tout ce qui est sur <https://github.com/OpenEdition/lodel>) :
 --------------------------------------------------------------------------------------------------
