@@ -41,7 +41,7 @@ LODEL
 4.	Lodel pour Openedition :
 --------------------------------
 
-- Les différentes parties d’[Openedition.org](https://www.openedition.org) (portail générique qui regroupe tout) :
+Les différentes parties d’[Openedition.org](https://www.openedition.org) (portail générique qui regroupe tout) :
 - [lodel.org](<https://www.lodel.org/>) : site de présentation de Lodel
 - [lodel.hypotheses.org](<https://www.lodel.hypotheses.org/>) : Blog Lodel, billets des différentes releases déployées
 - [calenda.org](<https://www.calenda.org/>) : Calendrier (colloques, séminaires, appels à contribution…)
