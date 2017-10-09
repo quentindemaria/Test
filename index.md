@@ -16,6 +16,7 @@ LODEL
 	- [books.openedition.org](<https://books.openedition.org/>) : Portail des différents livres publiés
 	- [maisondesrevues.org](<https://www.maisondesrevues.org/>) : doc pour revues.org et books.openedition.org
 
+
 2.	Doc Technique (coté dev, c.f tout ce qui est sur github) :
 ------------------------------------------------------------------
 
@@ -26,6 +27,7 @@ LODEL
 - les extensions (plugins)
 - les templates
 
+
 3.	Doc utilisateur :
 -------------------------
 
@@ -34,6 +36,7 @@ LODEL
 - alimentation d'un site lodel en contenu :
 - site basique sans documents structurés (xml/tei)
 - à partir de documents Word stylés (si Lodel installé avec otx)
+
 
 4.	Lodel pour Openedition :
 --------------------------------
@@ -45,6 +48,7 @@ LODEL
 - [revues.org](<https://www.revues.org/>) : Portail des différentes revues publiées
 - [books.openedition.org](<https://books.openedition.org/>) : Portail des différents livres publiés
 - [maisondesrevues.org](<https://www.maisondesrevues.org/>) : doc pour revues.org et books.openedition.org
+
 
 5.	Annexe :
 ----------------
