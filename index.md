@@ -17,8 +17,8 @@ LODEL
 	- [maisondesrevues.org](<https://www.maisondesrevues.org/>) : doc pour revues.org et books.openedition.org
 
 
-2.	Doc Technique (coté dev, c.f tout ce qui est sur github) :
-------------------------------------------------------------------
+2.	Doc Technique (coté dev, c.f tout ce qui est sur <https://github.com/OpenEdition/lodel>) :
+--------------------------------------------------------------------------------------------------
 
 - vue d'ensemble
 - le modèle éditorial
