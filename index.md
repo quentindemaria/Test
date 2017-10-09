@@ -55,6 +55,6 @@ LODEL
 
 - F.A.Q (<http://maisondesrevues.org/66/>)
 - Résumé des releases, dates et contenu (c.f <http://lodel.hypotheses.org/>)
-- Get support / tickets (bugs and feature requests) -> redirection vers Redmine ?
-- Contribuer (renvoyer sur Github ?)
+- Get support / tickets (bugs and feature requests) (géré par Redmine)
+- Contribuer (renvoyer sur <https://github.com/OpenEdition/lodel/>)
 - License / Copyright (c.f <https://github.com/OpenEdition/lodel/>)
