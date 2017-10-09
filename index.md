@@ -30,8 +30,8 @@ LODEL
 - à partir de documents Word stylés (si Lodel installé avec otx)
 
 
-4.	Lodel pour Openedition (les différentes parties d’[Openedition.org](https://www.openedition.org):
------------------------------------------------------------------------------------------------------
+4.	Lodel pour Openedition :
+----------------------------
 
 - [lodel.org](<https://www.lodel.org/>) : site de présentation de Lodel
 - [lodel.hypotheses.org](<https://www.lodel.hypotheses.org/>) : Blog Lodel, billets des différentes releases déployées
